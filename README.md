@@ -7,11 +7,11 @@ Site Reliability Engineers (SREs) are entrusted with the critical task of minimi
 In this project we build a SRE assistant using Large Language Model from OpenAI to quickly understand get quick summary of Issue / Incident.
 
 ## Tech stack 
-Hasura Notebook - Quick prototyping 
-ClickHouse - Analytical Database
-Hasura - Secure Data Access
-OpenAI - Large Language Model
+* Hasura Notebook - Quick prototyping
+* ClickHouse - Analytical Database
+* Hasura - Secure Data Access
+* OpenAI - Large Language Model
 
 
 ## Blog post
-<coming soon>
+coming soon
